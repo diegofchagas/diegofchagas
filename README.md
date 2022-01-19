@@ -7,6 +7,8 @@
 
 ![Chagas GitHub stats](https://github-readme-stats.vercel.app/api?username=diegofchagas&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegofchagas)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display:inline-block"><br/> 
